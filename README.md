@@ -1,7 +1,7 @@
 # Rack-Unrack-Fivem-Script
 A simple script that lets you rack/unrack big weapons from your car/police vehicle with proper animation to it.
 
-#JUST ADD " ensure unrack " and " ensure mythic_progbar " !
+# JUST ADD " ensure unrack " and " ensure mythic_progbar " !
 
 # -- Written by https://github.com/dsvipeer 
 # -- No support will be providen as it is standalone and it is working, just don't mess around in the client.lua.
