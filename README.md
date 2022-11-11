@@ -6,13 +6,13 @@ A simple script that lets you rack/unrack big weapons from your car/police vehic
 # -- Credits to https://github.com/HalCroves and it's resource https://github.com/HalCroves/mythic_progbar .
 
 
-Resource commands: 
+# Resource commands: 
 
-/t4    (Rack M4) "CARBINE"
-/ret4 (Unrack M4) "CARBINE"
+# /t4    (Rack M4) "CARBINE"
+# /ret4 (Unrack M4) "CARBINE"
 
-/imbel ( Rack "CARBINE_MK2" )
-/reimb ( Unrack "CARBINE_MK2" )
+# /imbel ( Rack "CARBINE_MK2" )
+# /reimb ( Unrack "CARBINE_MK2" )
 
 T4 is a brazilian made weapon and imbel as well, so just ignore and change to whatever you want.
 
