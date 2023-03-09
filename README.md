@@ -16,7 +16,11 @@ https://user-images.githubusercontent.com/112516086/224126799-98704092-a085-47ca
 ## :inbox_tray: **Installation**
 
 - Drag and Drop into your resources folder
+
 - Add "ensure unrack" into your server.cfg
+
+- I've already added mythic_progbar, because it was with __resource.lua outdated and needed fxmanifest.lua, but feel free to go to [JayMontana](https://github.com/JayMontana36/mythic_progbar) and give him a star!
+
 - Make sure to have [Mythic_progbar](https://github.com/JayMontana36/mythic_progbar) installed!
 
 
