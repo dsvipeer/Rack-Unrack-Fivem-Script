@@ -1,23 +1,23 @@
-# Rack-Unrack-Fivem-Script
-A simple script that lets you rack/unrack big weapons from your car/police vehicle with proper animation to it.
+## RACK AND UNRACK WEAPONS by dsvipeer
 
-# JUST ADD " ensure unrack " and " ensure mythic_progbar " !
+## A simple script that lets you rack/unrack big weapons from your car/police vehicle with proper animation to it.
 
-# -- Written by https://github.com/dsvipeer 
-# -- No support will be providen as it is standalone and it is working, just don't mess around in the client.lua.
-# -- Credits to https://github.com/HalCroves and it's resource https://github.com/HalCroves/mythic_progbar .
+      # Reminder: This only removes and give it back the weapon with predetermined acessories that are in the client.lua
+      
+            # To use inventory and others, you'll need to convert to whatever framework and inventory you're gonna use.
+
+## :eyes Preview:
 
 
-# Resource commands: 
+https://user-images.githubusercontent.com/112516086/224126799-98704092-a085-47ca-90b6-13bdcdbc2ae0.mp4
 
-# /t4    (Rack M4) "CARBINE"
-# /ret4 (Unrack M4) "CARBINE"
 
-# /imbel ( Rack "CARBINE_MK2" )
-# /reimb ( Unrack "CARBINE_MK2" )
 
-T4 is a brazilian made weapon and imbel as well, so just ignore and change to whatever you want.
+## :inbox_tray: **Installation**
 
-YOU CAN CHANGE ALL COMMANDS IN " client.lua " file!
+- Drag and Drop into your resources folder
+- Add "ensure unrack" into your server.cfg
+- Make sure to have [Mythic_progbar](https://github.com/JayMontana36/mythic_progbar) installed!
 
-Thanks you for downloading and have a great day!
+
+## Credits to [JayMontana](https://github.com/JayMontana36/mythic_progbar) for progress bar resource!
